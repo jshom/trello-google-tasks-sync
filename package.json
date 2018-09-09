@@ -1,0 +1,19 @@
+{
+  "name": "trello-google-tasks-sync",
+  "version": "1.0.0",
+  "description": "Goal: Have one todo list that can be accessed from any service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshom/trello-google-tasks-sync.git"
+  },
+  "keywords": [],
+  "author": "Jacob Shomstein <jacob@shomstein.com>",
+  "license": "ISC",
+  "bugs": { "url": "https://github.com/jshom/trello-google-tasks-sync/issues" },
+  "homepage": "https://github.com/jshom/trello-google-tasks-sync#readme"
+}
